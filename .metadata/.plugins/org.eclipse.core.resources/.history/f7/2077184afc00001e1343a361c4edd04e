@@ -1,0 +1,13 @@
+package com.doctorsearch.interfaces;
+
+import java.util.List;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value="doctorsearchfeign",url="http://localhost:8090/doctor")
+public interface SearchInterface {
+
+	public List<Doctor> getdoc(){
+		
+	}
+}

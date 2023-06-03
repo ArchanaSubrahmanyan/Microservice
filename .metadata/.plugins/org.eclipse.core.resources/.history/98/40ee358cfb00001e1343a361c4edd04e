@@ -1,0 +1,5 @@
+package com.doctorsearch.interfaces;
+
+public interface SearchInterface {
+
+}

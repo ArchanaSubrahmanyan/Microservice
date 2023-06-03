@@ -1,0 +1,5 @@
+package com.doctorsearch.controller;
+
+public class DoctorSearchController {
+
+}

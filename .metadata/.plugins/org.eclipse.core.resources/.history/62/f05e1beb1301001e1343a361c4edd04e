@@ -1,0 +1,5 @@
+server.port=8093
+spring.application.name=gateway
+spring.cloud.gateway.routes[0].id=doctor
+spring.cloud.gateway.routes[0].uri=lb://doctor
+spring.cloud.gateway.routes[0].predicates[0]=Path=/doctor/getdocs

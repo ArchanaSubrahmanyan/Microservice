@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.doctorsearch.entity&apos; to &apos;doctorsearchapi/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;doctorsearch&apos;&#x0D;&#x0A;- Destination element: &apos;doctorsearchapi/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;doctorsearch/src/main/java/com.doctorsearch.entity&apos;" description="Copy package" destination="=doctorsearchapi/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.doctorsearch.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1685688421903" version="1.0"/>
+</session>

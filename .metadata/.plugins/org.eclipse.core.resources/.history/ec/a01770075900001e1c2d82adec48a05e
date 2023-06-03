@@ -1,0 +1,13 @@
+package com.doctorsearch;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DoctorsearchApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DoctorsearchApplication.class, args);
+	}
+
+}
